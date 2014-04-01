@@ -39,4 +39,41 @@ February 25:
 
 February 27: 
 
-[Lecture](http://jtleek.github.io/jhsph753and4/lectures/06_01_dimensionReduction/#1)
+* Dimension reduction [Lecture](http://jtleek.github.io/jhsph753and4/lectures/06_01_dimensionReduction/#1)
+
+March 4:
+
+Bootstrapping
+
+* [Old Lecture](http://biostat.jhsph.edu/~jleek/teaching/2011/754/lecture9.pdf)
+* [New Lecture](http://jtleek.github.io/jhsph753and4/lectures/07_01_bootstrap/#1)
+
+
+March 6:
+
+* Testing [Lecture](http://jtleek.github.io/jhsph753and4/lectures/07_02_testing/#1)
+* [In class activity](https://github.com/jtleek/jhsph753and4/blob/master/lectures/07_02_inclass.md)
+
+March 11: 
+
+* Cancelled
+
+March 13: 
+
+* Guest lecture by Roger Peng [Lecture](http://jtleek.github.io/jhsph753and4/lectures/EBDA/#1)
+
+
+Biostat 754
+-------------
+
+March 25:
+* Testing [Lecture](http://jtleek.github.io/jhsph753and4/lectures/07_02_testing/#1)
+* [In class activity](https://github.com/jtleek/jhsph753and4/blob/master/lectures/07_02_inclass.md)
+* [Code for in-class](https://github.com/jtleek/jhsph753and4/blob/master/lectures/stamps.R)
+
+March 27: Betsy Ogburn
+
+April 1:
+
+* Regularized regression [Lecture](http://jtleek.github.io/jhsph753and4/lectures/09_01_penalized/#1)
+* Multiple testing [Lecture](http://jtleek.github.io/jhsph753and4/lectures/10_01_multipleTesting/#1)

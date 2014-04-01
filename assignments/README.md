@@ -18,6 +18,11 @@ How to submit data analyses
 
 Late submissions are not accepted unless agreed to _in advance by at least one week_. The only acceptable formats for submissions are pdf files for text/math and R Markdown files for code. 
 
+
+JHSPH 753
+=============================
+
+
 Assignment 1
 --------------
 
@@ -52,12 +57,12 @@ You are to create a [swirl](http://swirlstats.com/) tutorial on an advanced stat
 
 ### Acceptable methods
 
-* Text data cleaning with regular expressions
-* Clustering (hierarchical/k-means/etc.)
+* __Text data cleaning with regular expressions__
+* __Clustering (hierarchical/k-means/etc.)__
 * __Matrix decomposition (taken) (PCA/SVD/etc.)__
-* Generalized linear models (Poisson/Logistic special cases)
+* __Generalized linear models (Poisson/Logistic special cases)__
 * Generalized estimating equations
-* Mixed effects models
+* __Mixed effects models__
 * Quantile regression
 * Generalized additive models
 * Kernel smoothing
@@ -65,17 +70,40 @@ You are to create a [swirl](http://swirlstats.com/) tutorial on an advanced stat
 * The boostrap
 * Bagging
 * Boosting
-* Multiple testing
+* __Multiple testing__
 * Classification and regression trees
 * Prediction study design (test/training sets/cross validation)
 * Random forests
-* Linear discriminant analysis
+* __Linear discriminant analysis__
 * Cross validation 
-* Automated model selection (AIC, BIC,etc.)
+* __Automated model selection (AIC, BIC,etc.)__
 * __Regularized regression (ridge regression, lasso, etc.)__
 * Expectation maximization algorithm
-* Directed acyclic graphs for causal inference
+* __Directed acyclic graphs for causal inference__
 * Principal strata 
 * Multiple imputation for missing data
 * Any other idea you have 
+
+### Info from Nick on Swirl
+
+* Presentation: http://rpubs.com/ncarchedi/author-swirl-content
+
+* Website: http://swirlstats.com
+
+* GitHub: https://github.com/swirldev/swirl
+
+
+
+JHSPH 754
+=============================
+
+Assignment 1
+--------------
+
+* Assigned: Tuesday, April 1st
+* Due: Tuesday, April 15h
+* Peer Grading Due: April 22nd 
+* Data Analysis Assignment: http://www.crowdgrader.org/crowdgrader/venues/view_venue/313/
+* Homework problems: https://github.com/jtleek/jhsph753and4/blob/master/assignments/hw1-754.md
+
 
