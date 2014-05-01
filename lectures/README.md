@@ -76,4 +76,32 @@ March 27: Betsy Ogburn
 April 1:
 
 * Regularized regression [Lecture](http://jtleek.github.io/jhsph753and4/lectures/09_01_penalized/#1)
+
+April 3: 
+
 * Multiple testing [Lecture](http://jtleek.github.io/jhsph753and4/lectures/10_01_multipleTesting/#1)
+
+April 10: 
+
+* Prediction I [Lecture](http://jtleek.github.io/jhsph753and4/lectures/11_01_predictionI/#1)
+
+April 15: 
+
+* Prediction II [Lecture](http://jtleek.github.io/jhsph753and4/lectures/11_02_predictionII/#1)
+
+April 17: 
+
+* [In class activity](https://github.com/jtleek/jhsph753and4/blob/master/lectures/11_03_inclass.md)
+* [exampleFunction.R](https://github.com/jtleek/jhsph753and4/blob/master/lectures/exampleFunction.R)
+
+April 22:
+
+* Prediction III [Lecture](http://jtleek.github.io/jhsph753and4/lectures/12_01_predictionIII/#1)
+
+April 24:
+
+* Smoothing II [Lecture](http://jtleek.github.io/jhsph753and4/lectures/12_02_smoothingI/#1)
+
+April 29:
+
+* Smoothing II [Lecture](http://jtleek.github.io/jhsph753and4/lectures/13_01_smoothingII/#1)
